@@ -1,16 +1,30 @@
-# solid_project
 
-A new Flutter project.
+# Login Credentials
+To log in, use the following credentials:
 
-## Getting Started
+Email: test@test.com
 
-This project is a starting point for a Flutter application.
+Password: test123
 
-A few resources to get you started if this is your first Flutter project:
+# Features
+Login Screen: I created a simple login screen that performs local authentication to showcase my skills in using a real API.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Reactivity with GetX: For reactivity, I used GetX to make my project development more efficient.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Controller Management: I created a controller for each display page to keep the code clean and maintainable.
+
+Styling Classes: I developed styling classes, such as the color class, which helps in standardizing colors in a real project.
+
+# Future Enhancements
+If I had more time to dedicate to this project, I would have built a complete authentication system, including:
+
+User creation
+
+Password recovery
+
+Login using a real API
+
+Core Values
+Performance: Performance is always a concern I have in all my projects.
+
+Code Organization: Ensuring code organization and ease of maintenance are values I take very seriously.
