@@ -129,11 +129,7 @@ class LoginScreen extends StatelessWidget {
                                           ),
                                         ),
                                         onPressed: () {
-                                          if (controller.formKey.currentState
-                                                  ?.validate() ??
-                                              false) {
-                                            controller.login();
-                                          }
+                                          controller.login();
                                         },
                                         child: const Text(
                                           'Access',
