@@ -25,7 +25,7 @@ class HomePage extends StatelessWidget {
                 controller.sortColors();
               },
               child: Center(
-                child: Text('Hello There',
+                child: Text('Hello there',
                     style: TextStyle(
                         fontSize: 24,
                         color: textDark.value
